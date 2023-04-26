@@ -19,7 +19,4 @@ Bienvenidos a aquellos a han venido y muchas gracias por venir. En los siguiente
 
 ### 1. Habilidades y tecnologias 👨‍💻
 
-Según mis habilidades soy una persona trabajador, responsable y también tengo facilidad en aprender cosas.
-
-
-
+Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas.
