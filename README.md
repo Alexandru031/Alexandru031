@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 Bienvenidos a aquellos a han venido y muchas gracias por venir. En los siguientes pasos os mostraré toda la información que os interesa sobre mí, mis experiencas, mis estudios, mis hobbies, etc... Vamos a comenzar con las siguients.
 
-### Habilidades y tecnologias 👨‍💻
+### 1.Habilidades y tecnologias 👨‍💻
 
-Según mis habilidades soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Ten
+Según mis habilidades soy una persona trabajador, responsable y también tengo facilidad en aprender cosas.
+
 
 
