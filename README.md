@@ -29,7 +29,7 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA" width="20" height="20">
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="20" height="20">
    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="20" height="20">
-   <img alt="for-the-badge" src="https://shields.io/badge/style-for--the--badge-green?logo=appveyor&amp;style=for-the-badge" width="150" height="20">
+   <img alt="Java" src="https://shields.io/badge/JAVA-for--the--badge-green?logo=html5?style=for-the-badge" width="150" height="20">
 - 🌐 &nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="20" height="20">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40">
