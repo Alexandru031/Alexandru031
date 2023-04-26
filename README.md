@@ -19,4 +19,12 @@ Antes de todo muchas gracias por venir y espero que os interesé mi perfil 😄.
 
 ### 1. Habilidades y tecnologias 👨‍💻
 
-Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Aprendí 
+Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Aprendí diferentes lenguajes de programación y lenguajes de marcado:
+
+- HTML, CSS, BOOSTRAP Y JAVASCRIPT tengo experiencia 2 años programando. JavaScript trabajé muy poco por un proyecto.
+
+- C# tengo experiencia 6 meses programando para hacer proyectos y prácticas.
+
+- JAVA tengo experiencia de 1 año y medio programando.
+
+- PHP tengo muy poca experiencia porque trabajé también para un proyecto.
