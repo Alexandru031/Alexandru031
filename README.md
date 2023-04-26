@@ -24,13 +24,16 @@ Antes de todo muchas gracias por venir y espero que os interesé mi perfil 😄.
 
 Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Aprendí diferentes lenguajes de programación y lenguajes de marcado:
 
-- HTML, CSS, BOOSTRAP Y JAVASCRIPT tengo experiencia 2 años programando. JavaScript trabajé muy poco por un proyecto.
-
-- C# tengo experiencia 6 meses programando para hacer proyectos y prácticas.
-
-- JAVA tengo experiencia de 1 año y medio programando.
-
-- PHP tengo muy poca experiencia porque trabajé también para un proyecto.
+<div align=center>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Boostrap" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA" width="40" height="40">
+</div>
 
 Fuera del ambito de programación también tengo otras habilidades:
 
