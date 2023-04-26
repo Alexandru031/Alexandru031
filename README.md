@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Bienvenidos a aquellos a han venido y muchas gracias por venir. En los siguientes pasos os mostraré toda la información que os interesa sobre mí, mis experiencas, mis estudios, mis hobbies, etc... Vamos a comenzar con las siguients.
+Antes de todo muchas gracias por venir y espero que os interesé mi perfil 😄. En los siguientes pasos os mostraré toda la información que os interesa sobre mí, mis experiencas, mis estudios, mis hobbies, etc... Vamos a comenzar con las siguientes
 
 ### 1. Habilidades y tecnologias 👨‍💻
 
-Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas.
+Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Aprendí 
