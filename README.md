@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Antes de todo muchas gracias por venir y espero que os interesé mi perfil 😄. En los siguientes pasos os mostraré toda la información que os interesa sobre mí, mis experiencas, mis estudios, mis hobbies, etc... Vamos a comenzar con las siguientes
+Antes de todo muchas gracias por venir y espero que os interesé mi perfil 😄. En los siguientes pasos os mostraré toda la información que os interesa sobre mí, mis experiencas, mis estudios, mis hobbies, etc... Vamos a comenzar con las siguientes:
 
 ### 1. Habilidades y tecnologias 👨‍💻
 
@@ -27,3 +27,11 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
 - JAVA tengo experiencia de 1 año y medio programando.
 
 - PHP tengo muy poca experiencia porque trabajé también para un proyecto.
+
+Fuera del ambito de programación también tengo otras habilidades:
+
+- Montaje y mantenimiento de los equipos informaticos
+
+- Uso de aplicaciones OFFICE 365
+
+- Configuración de Servidores y Clientes en Windows
