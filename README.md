@@ -1,4 +1,4 @@
-### Hi there 👋
+# Bienvenido 👋
 
 <!--
 **Alexandru031/Alexandru031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Bienvenidos a aquellos a han venido y muchas gracias por venir. En los siguientes pasos os mostraré toda la información que os interesa sobre mí, mis experiencas, mis estudios, mis hobbies, etc... Vamos a comenzar con las siguients.
+
+### Habilidades y tecnologias 👨‍💻
+
+Según mis habilidades soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Ten
+
+
