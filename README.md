@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 Antes de todo muchas gracias por venir y espero que os interesé mi perfil 😄. En los siguientes pasos os mostraré toda la información que os interesa sobre mí, mis experiencas, mis estudios, mis hobbies, etc... Vamos a comenzar con las siguientes:
 
+<a href="https://github.com/Alexandru031">
+   <img src="https://komarev.com/ghpvc/?username=Alexandru031">
+</a>
+
 ### 1. Habilidades y tecnologias 👨‍💻
 
 Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Aprendí diferentes lenguajes de programación y lenguajes de marcado:
