@@ -53,4 +53,4 @@ Fuera del ambito de programación también tengo otras habilidades:
 
 - Uso de aplicaciones OFFICE 365
 
-- Configuración de Servidores y Clientes en Windows
+- Configuración de Clientes y Servidores en Windows
