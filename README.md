@@ -33,7 +33,19 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA" width="40" height="40">
-</div>
+</div><br>
+Herramientas que usó a esas tecnologias:
+<br><br>
+<div align=center>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
+   <img src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo.png" alt="NetBeans" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Google" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows10" width="40" height="40">
+</div><br>
 
 Fuera del ambito de programación también tengo otras habilidades:
 
