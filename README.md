@@ -20,7 +20,7 @@ Antes de todo muchas gracias por venir y espero que os interesé mi perfil 😄.
    <img src="https://komarev.com/ghpvc/?username=Alexandru031">
 </a>
 
-### 1. Habilidades y tecnologias 👨‍💻
+### 1. Habilidades y Tecnologias 👨‍💻
 
 Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Aprendí diferentes lenguajes de programación, lenguajes de marcado y usé diferentes programas de software:
 
@@ -65,7 +65,7 @@ Fuera del ambito de programación y usos de software también tengo otras habili
 - Elegir componentes o dispositivos y atender sus necesidades
 <br>
 
-### 2. Proyectos personales 📦
+### 2. Proyectos Personales 📦
 
 Mis proyectos personales consisten en crear y diseñar diferentes paginas web porque estoy enfocado en el ambito de Front-End. También creó programas de aplicaciones con el uso de lenguaje Java para practicar en mis proyectos y poder desarrollar mis experiencias.
 <br><br>
@@ -84,3 +84,7 @@ Actualmente estoy estudiando, por la tanto no tengo experiencia laboral. Pero hi
 - Tecnico de Desarrollo de Aplicaciones Web de Grado Superior en CIPFP de Cheste [Septiembre 2021 - Actualidad]
 <br><br>
 
+### 5. Datos de Contacto
+<div align=center>
+   <a href="https://www.instagram.com/el.estanusky/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&amp;style=for-the-badge">
+</div>
