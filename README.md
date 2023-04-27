@@ -22,37 +22,46 @@ Antes de todo muchas gracias por venir y espero que os interesé mi perfil 😄.
 
 ### 1. Habilidades y tecnologias 👨‍💻
 
-Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Aprendí diferentes lenguajes de programación y lenguajes de marcado:
+Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Aprendí diferentes lenguajes de programación, lenguajes de marcado y usé diferentes programas de software:
 
 - 💻 &nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C#" width="20" height="20">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA" width="20" height="20">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="20" height="20">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="20" height="20">
-   <img alt="Java" src="https://shields.io/badge/JAVA-for--the--badge-green?logo=html5?style=for-the-badge" width="150" height="20">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-black?logo=Java&amp;style=for-the-badge">
+  <img alt="C#" src="https://img.shields.io/badge/-Csharp-black?logo=csharp&amp;style=for-the-badge">
 - 🌐 &nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="20" height="20">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Boostrap" width="40" height="40">
-   <br>
-Herramientas que usó a esas tecnologias:
-<br><br>
-<div align=center>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VScode" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Atom" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
-   <img src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo.png" alt="NetBeans" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Google" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows10" width="40" height="40">
-</div><br>
+   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?logo=html5&amp;style=for-the-badge">
+   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?logo=css3&amp;style=for-the-badge">
+   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&amp;style=for-the-badge">
+   <img alt="Boostrap" src="https://img.shields.io/badge/-Boostrap-black?logo=bootstrap&amp;style=for-the-badge">
+   <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?logo=php&amp;style=for-the-badge">
+- 🛢 &nbsp;
+   <img alt="OracleSQL" src="https://img.shields.io/badge/-OracleSQL-black?logo=oracle&amp;style=for-the-badge">
+- ⚙️ &nbsp;
+   <img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git&amp;style=for-the-badge">
+   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github&amp;style=for-the-badge">
+   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-black?logo=stackoverflow&amp;style=for-the-badge">
+- 🔧 &nbsp;
+   <img alt="VScode" src="https://img.shields.io/badge/-VScode-black?logo=visualstudiocode&amp;style=for-the-badge">
+   <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-black?logo=visualstudio&amp;style=for-the-badge">
+   <img alt="Atom" src="https://img.shields.io/badge/-Atom-black?logo=atom&amp;style=for-the-badge">
+   <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-black?logo=apachenetbeanside&amp;style=for-the-badge">
+   <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS Studio-black?logo=obsstudio&amp;style=for-the-badge">
+- 🖥 &nbsp;
+   <img alt="PhotoShop" src="https://img.shields.io/badge/-Photoshop-black?logo=adobephotoshop&amp;style=for-the-badge">
+   <img alt="CapCut" src="https://img.shields.io/badge/-Capcut-black?logo=capcut&amp;style=for-the-badge">
+   <img alt="GIMP" src="https://img.shields.io/badge/-GIMP-black?logo=gimp&amp;style=for-the-badge">
+   <img alt="Canva" src="https://img.shields.io/badge/-Canva-black?logo=canva&amp;style=for-the-badge">
+   <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft Office-black?logo=microsoftoffice&amp;style=for-the-badge">
+   <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?logo=windows&amp;style=for-the-badge">
+- ☁️ &nbsp;
+   <img alt="Google Drive" src="https://img.shields.io/badge/-Google Drive-black?logo=googledrive&amp;style=for-the-badge">
+   <img alt="TeraBox" src="https://img.shields.io/badge/-TeraBox-black?logo=terabox&amp;style=for-the-badge">
 
-Fuera del ambito de programación también tengo otras habilidades:
+Fuera del ambito de programación y usos de software también tengo otras habilidades:
 
 - Montaje y mantenimiento de los equipos informaticos
 
-- Uso de aplicaciones OFFICE 365
-
 - Configuración de Clientes y Servidores en Windows
+
+- Elegir componentes o dispositivos y atender sus necesidades
+
+
