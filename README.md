@@ -89,5 +89,5 @@ Actualmente estoy estudiando, por la tanto no tengo experiencia laboral. Pero hi
    <a href="https://www.instagram.com/el.estanusky/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&amp;style=for-the-badge">
    <a href="https://twitter.com/elestanusky"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&amp;style=for-the-badge">
    <a href="https://www.tiktok.com/@el.estanusky17"><img alt="Instagram" src="https://img.shields.io/badge/-TikTok-black?logo=tiktok&amp;style=for-the-badge">
-   <a href="mailto:alexandrustanica33@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?logo=gmail&amp;style=for-the-badge">
+   <a href="mailto:alexandrustanica33@gmail.com" subject="alexandrustanica33@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-white?logo=gmail&amp;style=for-the-badge">
 </div>
