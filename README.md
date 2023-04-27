@@ -110,3 +110,5 @@ Mis hobbies son hacer streaming mediante plataforma en *Twitch* y *Youtube*. Me 
 <br><br>
       
 ### 7. Editores de código o entornos de desarollo que dominas 
+
+Ultimamente estoy empezando a dominar en Java porque actualmente estoy estudiando y aprendiendo ese lenguaje. Durante el uso de ese lenguaje utilizó el editor de codigó NetBeans donde me facilita a la hora de crear proyectos y programas. El que dominó más es la creación de pagina web porque en él tengo muchas experiencia con los lenguajes de marcado. La desventaja que tengo en la creación web es 
