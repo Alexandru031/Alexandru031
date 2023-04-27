@@ -97,6 +97,9 @@ Si quieres contactarme aquí os dejó mis redes sociales por si os interesa segu
    <a href="https://www.instagram.com/el.estanusky/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&amp;style=for-the-badge">
    <a href="https://twitter.com/elestanusky"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&amp;style=for-the-badge">
    <a href="https://www.tiktok.com/@el.estanusky17"><img alt="Instagram" src="https://img.shields.io/badge/-TikTok-black?logo=tiktok&amp;style=for-the-badge">
+   <a href="https://www.youtube.com/channel/UCSNSrWuP3dlDq9VOfStxrEQ"><img alt="Youtube" src="https://img.shields.io/badge/-Youtube-red?logo=youtube&amp;style=for-the-badge">
+   <a href="https://www.twitch.tv/straliusplay"><img alt="Twitch" src="https://img.shields.io/badge/-Twitch-purple?logo=twitch&amp;style=for-the-badge">
+      <a href="https://discord.gg/QGAYtEHfwA"><img alt="Discord" src="https://img.shields.io/badge/-Discord-white?logo=discord&amp;style=for-the-badge">
    <a href="mailto:alexandrustanica33@gmail.com" subject="alexandrustanica33@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-alexandrustanica33@gmail.com-white?logo=gmail&amp;style=for-the-badge">
 </div>
 <br>
@@ -104,3 +107,6 @@ Si quieres contactarme aquí os dejó mis redes sociales por si os interesa segu
 ### 6. Hobbies e Intereses
       
 Mis hobbies son hacer streaming mediante plataforma en *Twitch* y *Youtube*. Me dedico hacer tanto videos como directos de videojuegos. A parte me gusta hacer deporte como jugar a futbol o hacer ejercicio fisico. Durante mi carrera quiero seguir estudiando para ser un programador Front-End y cuando terminé seguiré estudiando más lenguajes de programación y posiblemente me planteo a estudiar Back-End.
+<br><br>
+      
+### 7. Editores de código o entornos de desarollo que dominas 
