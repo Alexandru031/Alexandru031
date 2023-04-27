@@ -1,3 +1,5 @@
+![head.png](https://cdn.pixabay.com/photo/2016/05/22/19/07/background-1409025_960_720.png)
+
 # Bienvenido 👋
 
 <!--
@@ -14,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150">
+
 Antes de todo muchas gracias por venir y espero que os interesé mi perfil 😄. En los siguientes pasos os mostraré toda la información que os interesa sobre mí, mis experiencas, mis estudios, mis hobbies, etc... Vamos a comenzar con las siguientes:
 
 <a href="https://github.com/Alexandru031">
@@ -85,10 +89,18 @@ Actualmente estoy estudiando, por la tanto no tengo experiencia laboral. Pero hi
 <br><br>
 
 ### 5. Datos de Contacto
+
+Si quieres contactarme aquí os dejó mis redes sociales por si os interesa seguirme. Te recomiendo que uses a traves en gmail.
+
+<br>
 <div align=center>
    <a href="https://www.instagram.com/el.estanusky/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&amp;style=for-the-badge">
    <a href="https://twitter.com/elestanusky"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&amp;style=for-the-badge">
    <a href="https://www.tiktok.com/@el.estanusky17"><img alt="Instagram" src="https://img.shields.io/badge/-TikTok-black?logo=tiktok&amp;style=for-the-badge">
    <a href="mailto:alexandrustanica33@gmail.com" subject="alexandrustanica33@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-alexandrustanica33@gmail.com-white?logo=gmail&amp;style=for-the-badge">
 </div>
-
+<br>
+      
+### 6. Hobbies e Intereses
+      
+Mis hobbies son hacer streaming mediante plataforma en *Twitch* y *Youtube*. Me dedico hacer tanto videos como directos de videojuegos. A parte me gusta hacer deporte como jugar a futbol o hacer ejercicio fisico. Durante mi carrera quiero seguir estudiando para ser un programador Front-End y cuando terminé seguiré estudiando más lenguajes de programación y posiblemente me planteo a estudiar Back-End.
