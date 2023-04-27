@@ -63,14 +63,17 @@ Fuera del ambito de programación y usos de software también tengo otras habili
 - Configuración de Clientes y Servidores en Windows
 
 - Elegir componentes o dispositivos y atender sus necesidades
+<br>
 
 ### 2. Proyectos personales 📦
 
 Mis proyectos personales consisten en crear y diseñar diferentes paginas web porque estoy enfocado en el ambito de Front-End. También creó programas de aplicaciones con el uso de lenguaje Java para practicar en mis proyectos y poder desarrollar mis experiencias.
+<br><br>
 
 ### 3. Experiencia Laboral 💼
 
 Actualmente estoy estudiando, por la tanto no tengo experiencia laboral. Pero hice 3 meses de practicas en una empresa.
+<br><br>
 
 ### 4. Educación 🏫
 
@@ -79,5 +82,5 @@ Actualmente estoy estudiando, por la tanto no tengo experiencia laboral. Pero hi
 - Tecnico de Sistemas Microinformáticos y Redes de Grado Medio en CIPFP de Cheste [Septiembre 2019 - Junio 2021]
 
 - Tecnico de Desarrollo de Aplicaciones Web de Grado Superior en CIPFP de Cheste [Septiembre 2021 - Actualidad]
-
+<br><br>
 
