@@ -33,6 +33,7 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?logo=css3&amp;style=for-the-badge">
    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&amp;style=for-the-badge">
    <img alt="Boostrap" src="https://img.shields.io/badge/-Boostrap-black?logo=bootstrap&amp;style=for-the-badge">
+   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-black?logo=markdown&amp;style=for-the-badge">
    <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?logo=php&amp;style=for-the-badge">
 - 🛢 &nbsp;
    <img alt="OracleSQL" src="https://img.shields.io/badge/-OracleSQL-black?logo=oracle&amp;style=for-the-badge">
