@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 Antes de todo muchas gracias por venir y espero que os interesé mi perfil 😄. En los siguientes pasos os mostraré toda la información que os interesa sobre mí, mis experiencas, mis estudios, mis hobbies, etc... Vamos a comenzar con las siguientes:
 
-<a href="https://github.com/Alexandru031">
-   <img src="https://komarev.com/ghpvc/?username=Alexandru031">
-</a>
 
 ### 1. Habilidades y Tecnologias 👨‍💻
 
@@ -88,7 +85,7 @@ Actualmente estoy estudiando, por la tanto no tengo experiencia laboral. Pero hi
 - Tecnico de Desarrollo de Aplicaciones Web de Grado Superior en CIPFP de Cheste [Septiembre 2021 - Actualidad]
 <br><br>
 
-### 5. Datos de Contacto
+### 5. Datos de Contacto :telephone_receiver:
 
 Si quieres contactarme aquí os dejó mis redes sociales por si os interesa seguirme. Te recomiendo que uses a traves en gmail.
 
@@ -104,11 +101,29 @@ Si quieres contactarme aquí os dejó mis redes sociales por si os interesa segu
 </div>
 <br>
       
-### 6. Hobbies e Intereses
+### 6. Hobbies e Intereses :mega:
       
 Mis hobbies son hacer streaming mediante plataforma en *Twitch* y *Youtube*. Me dedico hacer tanto videos como directos de videojuegos. A parte me gusta hacer deporte como jugar a futbol o hacer ejercicio fisico. Durante mi carrera quiero seguir estudiando para ser un programador Front-End y cuando terminé seguiré estudiando más lenguajes de programación y posiblemente me planteo a estudiar Back-End.
 <br><br>
       
-### 7. Editores de código o entornos de desarollo que dominas 
+### 7. Editores de código o entornos de desarollo que dominas :computer:
 
-Ultimamente estoy empezando a dominar en Java porque actualmente estoy estudiando y aprendiendo ese lenguaje. Durante el uso de ese lenguaje utilizó el editor de codigó NetBeans donde me facilita a la hora de crear proyectos y programas. El que dominó más es la creación de pagina web porque en él tengo muchas experiencia con los lenguajes de marcado. La desventaja que tengo en la creación web es 
+Ultimamente estoy empezando a dominar en Java porque actualmente estoy estudiando y aprendiendo ese lenguaje. Durante el uso de ese lenguaje utilizó el editor de codigó NetBeans donde me facilita a la hora de crear proyectos y programas. El que dominó más, es la creación de pagina web porque en él tengo muchas experiencia con los lenguajes de marcado. La desventaja que tengo en la creación web es el uso del lenguaje de JavaScript porque en él no trabajé demasiado.
+
+### 8. Estadísticas en GitHub :bar_chart:
+
+<h4 align="center">Contador de Visitas :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Alexandru031}/count.svg" alt="Alexandru031 :: Visitor's Count" /></p>
+
+<h4 align="center">Idiomas Principales :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandru031&langs_count=10&theme=tokyonight&layout=compact" alt="Alexandru031 :: Top Langs" /></p>
+
+<h4 align="center">Estadistica de mi Perfil :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alexandru031&show_icons=true&theme=synthwave" alt="Alexandru031 :: Profile Stats" /></p>
+
+---
+
+⭐️ From [@Alexandru031](https://github.com/Alexandru031
