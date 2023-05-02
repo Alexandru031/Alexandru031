@@ -69,7 +69,7 @@ Fuera del ambito de programación y usos de software también tengo otras habili
 
 ### 2. Proyectos Personales 📦
 
-Mis proyectos personales consisten en crear y diseñar diferentes paginas web porque estoy enfocado en el ambito de Front-End. También creó programas de aplicaciones con el uso de lenguaje Java para practicar en mis proyectos y poder desarrollar mis experiencias.
+Mis proyectos personales consisten en crear y diseñar diferentes paginas web porque estoy enfocado en el ambito de Front-End. También creó programas de aplicaciones con el uso de lenguaje Java para practicar en mis proyectos y poder desarrollar mis experiencias. Si quieres ver mis proyectos, podeis darle <a href="https://github.com/Alexandru031/ProyectosJ">aquí</a>.
 <br><br>
 
 ### 3. Experiencia Laboral 💼
