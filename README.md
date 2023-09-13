@@ -37,6 +37,7 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-black?logo=markdown&amp;style=for-the-badge">
    <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?logo=php&amp;style=for-the-badge">
    <img alt="Angular" src="https://img.shields.io/badge/-Angular-black?logo=angular&amp;style=for-the-badge">
+   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-black?logo=laravel&amp;style=for-the-badge">
 - 🛢 &nbsp;
    <img alt="OracleSQL" src="https://img.shields.io/badge/-OracleSQL-black?logo=oracle&amp;style=for-the-badge">
    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&amp;style=for-the-badge">
@@ -49,7 +50,6 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-black?logo=visualstudio&amp;style=for-the-badge">
    <img alt="Atom" src="https://img.shields.io/badge/-Atom-black?logo=atom&amp;style=for-the-badge">
    <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-black?logo=apachenetbeanside&amp;style=for-the-badge">
-   <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS Studio-black?logo=obsstudio&amp;style=for-the-badge">
 - 🖥 &nbsp;
    <img alt="PhotoShop" src="https://img.shields.io/badge/-Photoshop-black?logo=adobephotoshop&amp;style=for-the-badge">
    <img alt="CapCut" src="https://img.shields.io/badge/-Capcut-black?logo=capcut&amp;style=for-the-badge">
@@ -57,6 +57,7 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img alt="Canva" src="https://img.shields.io/badge/-Canva-black?logo=canva&amp;style=for-the-badge">
    <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft Office-black?logo=microsoftoffice&amp;style=for-the-badge">
    <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?logo=windows&amp;style=for-the-badge">
+   <img alt="Debian" src="https://img.shields.io/badge/-Debian-black?logo=debian&amp;style=for-the-badge">
 - ☁️ &nbsp;
    <img alt="Google Drive" src="https://img.shields.io/badge/-Google Drive-black?logo=googledrive&amp;style=for-the-badge">
    <img alt="TeraBox" src="https://img.shields.io/badge/-TeraBox-black?logo=terabox&amp;style=for-the-badge">
