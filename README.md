@@ -99,9 +99,8 @@ Actualmente estoy estudiando, por la tanto no tengo experiencia laboral. Pero hi
 
 ### 5. Datos de Contacto :telephone_receiver:
 
-Si quieres contactarme aquí os dejó mis redes sociales. Te recomiendo que uses a traves en gmail.
+Sígueme en mis redes sociales!!! Si quieres contactarme algo importante, te recomiendo que escribas en mi Gmail.
 
-<br>
 <div align=center>
    <a href="https://www.instagram.com/el.estanusky/"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-pink?logo=instagram&amp;style=for-the-badge">
    <a href="https://twitter.com/elestanusky"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&amp;style=for-the-badge">
