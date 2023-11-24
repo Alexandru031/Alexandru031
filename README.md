@@ -36,8 +36,8 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img alt="Boostrap" src="https://img.shields.io/badge/-Boostrap-black?logo=bootstrap&amp;style=for-the-badge">
    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-black?logo=markdown&amp;style=for-the-badge">
    <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?logo=php&amp;style=for-the-badge">
-   <img alt="Angular" src="https://img.shields.io/badge/-Angular-black?logo=angular&amp;style=for-the-badge">
    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-black?logo=laravel&amp;style=for-the-badge">
+   <img alt="Laravel" src="https://img.shields.io/badge/-Sass-black?logo=sass&amp;style=for-the-badge">
 - 🛢 &nbsp;
    <img alt="OracleSQL" src="https://img.shields.io/badge/-OracleSQL-black?logo=oracle&amp;style=for-the-badge">
    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&amp;style=for-the-badge">
@@ -50,6 +50,7 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-black?logo=visualstudio&amp;style=for-the-badge">
    <img alt="Atom" src="https://img.shields.io/badge/-Atom-black?logo=atom&amp;style=for-the-badge">
    <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-black?logo=apachenetbeanside&amp;style=for-the-badge">
+   <img alt="NetBeans" src="https://img.shields.io/badge/-Postman-black?logo=postman&amp;style=for-the-badge">
 - 🖥 &nbsp;
    <img alt="PhotoShop" src="https://img.shields.io/badge/-Photoshop-black?logo=adobephotoshop&amp;style=for-the-badge">
    <img alt="CapCut" src="https://img.shields.io/badge/-Capcut-black?logo=capcut&amp;style=for-the-badge">
