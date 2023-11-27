@@ -25,10 +25,49 @@ En los siguientes pasos les mostraré toda la información que les interesa sobr
 
 Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Aprendí diferentes lenguajes de programación, lenguajes de marcado y usé diferentes programas de software:
 
+<p align="center" >
+  <img alt="HTML5" src="https://github.com/Alexandru031/devicon/blob/master/icons/html5/html5-original.svg" width=10%>
+  <img alt="CSS3" src="https://github.com/Alexandru031/devicon/blob/master/icons/css3/css3-original.svg" width=10%>
+  <img alt="javaScript" src="https://github.com/Alexandru031/devicon/blob/master/icons/javascript/javascript-original.svg" width=10%>
+  <img alt="Boostrap" src="https://github.com/Alexandru031/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=10%>
+  <img alt="Sass" src="https://github.com/Alexandru031/devicon/blob/master/icons/sass/sass-original.svg" width=10%>
+  <img alt="Markdown" src="https://github.com/Alexandru031/devicon/blob/master/icons/markdown/markdown-original.svg" width=10%>
+  <img alt="PHP" src="https://github.com/Alexandru031/devicon/blob/master/icons/php/php-original.svg" width=10%>
+  <img alt="Oracle" src="https://github.com/Alexandru031/devicon/blob/master/icons/oracle/oracle-original.svg" width=10%>
+  <img alt="Git" src="https://github.com/Alexandru031/devicon/blob/master/icons/git/git-original.svg" width=10%>
+  <img alt="GitHub" src="https://github.com/Alexandru031/devicon/blob/master/icons/github/github-original.svg" width=10%>
+  <img alt="Java" src="https://github.com/Alexandru031/devicon/blob/master/icons/java/java-original.svg" width=10%>
+  <img alt="Csharp" src="https://github.com/Alexandru031/devicon/blob/master/icons/csharp/csharp-original.svg" width=10%>
+  <img alt="MySQL" src="https://github.com/Alexandru031/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=10%>
+  <img alt="Apache" src="https://github.com/Alexandru031/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width=10%>
+  <img alt="Debian" src="https://github.com/Alexandru031/devicon/blob/master/icons/debian/debian-original.svg" width=10%>
+  <img alt="Nodejs" src="https://github.com/Alexandru031/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=10%>
+  <img alt="NPM" src="https://github.com/Alexandru031/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=10%>
+  <img alt="Trello" src="https://github.com/Alexandru031/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width=10%>
+  <img alt="Visual_Studio" src="https://github.com/Alexandru031/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width=10%>
+  <img alt="VSCode" src="https://github.com/Alexandru031/devicon/blob/master/icons/vscode/vscode-original.svg" width=10%>
+  <img alt="Ubuntu" src="https://github.com/Alexandru031/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width=10%>
+  <img alt="Mocha" src="https://github.com/Alexandru031/devicon/blob/master/icons/mocha/mocha-plain.svg" width=10%>
+  <img alt="Google" src="https://github.com/Alexandru031/devicon/blob/master/icons/google/google-original.svg" width=10%>
+  <img alt="Atom" src="https://github.com/Alexandru031/devicon/blob/master/icons/atom/atom-original.svg" width=10%>
+  <img alt="Bash" src="https://github.com/Alexandru031/devicon/blob/master/icons/bash/bash-original.svg" width=10%>
+  <img alt="Canva" src="https://github.com/Alexandru031/devicon/blob/master/icons/canva/canva-original.svg" width=10%>
+  <img alt="Docker" src="https://github.com/Alexandru031/devicon/blob/master/icons/docker/docker-original.svg" width=10%>
+  <img alt="Figma" src="https://github.com/Alexandru031/devicon/blob/master/icons/figma/figma-original.svg" width=10%>
+  <img alt="Filezilla" src="https://github.com/Alexandru031/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width=10%>
+  <img alt="Firefox" src="https://github.com/Alexandru031/devicon/blob/master/icons/firefox/firefox-original.svg" width=10%>
+  <img alt="Gimp" src="https://github.com/Alexandru031/devicon/blob/master/icons/gimp/gimp-original.svg" width=10%>
+  <img alt="Linux" src="https://github.com/Alexandru031/devicon/blob/master/icons/linux/linux-original.svg" width=10%>
+  <img alt="Photoshop" src="https://github.com/Alexandru031/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width=10%>
+  <img alt="Putty" src="https://github.com/Alexandru031/devicon/blob/master/icons/putty/putty-original.svg" width=10%>
+</p>
+<p> 
 - 💻 &nbsp;
   <img alt="Java" src="https://img.shields.io/badge/-Java-black?logo=Java&amp;style=for-the-badge">
   <img alt="C#" src="https://img.shields.io/badge/-Csharp-black?logo=csharp&amp;style=for-the-badge">
-- 🌐 &nbsp;
+</p>
+<p>
+  - 🌐 &nbsp;
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?logo=html5&amp;style=for-the-badge">
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?logo=css3&amp;style=for-the-badge">
    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&amp;style=for-the-badge">
@@ -36,20 +75,28 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-black?logo=markdown&amp;style=for-the-badge">
    <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?logo=php&amp;style=for-the-badge">
    <img alt="Laravel" src="https://img.shields.io/badge/-Sass-black?logo=sass&amp;style=for-the-badge">
-- 🛢 &nbsp;
+</p>
+<p>
+  - 🛢 &nbsp;
    <img alt="OracleSQL" src="https://img.shields.io/badge/-OracleSQL-black?logo=oracle&amp;style=for-the-badge">
    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&amp;style=for-the-badge">
-- ⚙️ &nbsp;
+</p>
+<p>
+  - ⚙️ &nbsp;
    <img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git&amp;style=for-the-badge">
    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github&amp;style=for-the-badge">
    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-black?logo=stackoverflow&amp;style=for-the-badge">
-- 🔧 &nbsp;
+</p>
+<p>
+  - 🔧 &nbsp;
    <img alt="VScode" src="https://img.shields.io/badge/-VScode-black?logo=visualstudiocode&amp;style=for-the-badge">
    <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-black?logo=visualstudio&amp;style=for-the-badge">
    <img alt="Atom" src="https://img.shields.io/badge/-Atom-black?logo=atom&amp;style=for-the-badge">
    <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-black?logo=apachenetbeanside&amp;style=for-the-badge">
    <img alt="NetBeans" src="https://img.shields.io/badge/-Postman-black?logo=postman&amp;style=for-the-badge">
-- 🖥 &nbsp;
+</p>
+<p>
+  - 🖥 &nbsp;
    <img alt="PhotoShop" src="https://img.shields.io/badge/-Photoshop-black?logo=adobephotoshop&amp;style=for-the-badge">
    <img alt="CapCut" src="https://img.shields.io/badge/-Capcut-black?logo=capcut&amp;style=for-the-badge">
    <img alt="GIMP" src="https://img.shields.io/badge/-GIMP-black?logo=gimp&amp;style=for-the-badge">
@@ -57,9 +104,12 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft Office-black?logo=microsoftoffice&amp;style=for-the-badge">
    <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?logo=windows&amp;style=for-the-badge">
    <img alt="Debian" src="https://img.shields.io/badge/-Debian-black?logo=debian&amp;style=for-the-badge">
-- ☁️ &nbsp;
+</p>
+<p>
+  - ☁️ &nbsp;
    <img alt="Google Drive" src="https://img.shields.io/badge/-Google Drive-black?logo=googledrive&amp;style=for-the-badge">
    <img alt="TeraBox" src="https://img.shields.io/badge/-TeraBox-black?logo=terabox&amp;style=for-the-badge">
+</p>
 
 Fuera del ambito de programación y usos de software, también tengo otras habilidades:
 
