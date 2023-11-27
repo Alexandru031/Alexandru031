@@ -32,11 +32,9 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?logo=html5&amp;style=for-the-badge">
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?logo=css3&amp;style=for-the-badge">
    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&amp;style=for-the-badge">
-   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScritp-black?logo=typescript&amp;style=for-the-badge">
    <img alt="Boostrap" src="https://img.shields.io/badge/-Boostrap-black?logo=bootstrap&amp;style=for-the-badge">
    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-black?logo=markdown&amp;style=for-the-badge">
    <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?logo=php&amp;style=for-the-badge">
-   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-black?logo=laravel&amp;style=for-the-badge">
    <img alt="Laravel" src="https://img.shields.io/badge/-Sass-black?logo=sass&amp;style=for-the-badge">
 - 🛢 &nbsp;
    <img alt="OracleSQL" src="https://img.shields.io/badge/-OracleSQL-black?logo=oracle&amp;style=for-the-badge">
