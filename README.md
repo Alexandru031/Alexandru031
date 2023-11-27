@@ -60,7 +60,6 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
 - ☁️ &nbsp;
    <img alt="Google Drive" src="https://img.shields.io/badge/-Google Drive-black?logo=googledrive&amp;style=for-the-badge">
    <img alt="TeraBox" src="https://img.shields.io/badge/-TeraBox-black?logo=terabox&amp;style=for-the-badge">
-   <img alt="AWS" src="https://img.shields.io/badge/-AWS-black?logo=aws&amp;style=for-the-badge">
 
 Fuera del ambito de programación y usos de software, también tengo otras habilidades:
 
@@ -79,6 +78,7 @@ Mis proyectos personales consisten en crear y diseñar diferentes paginas web po
   <a href="https://github.com/Alexandru031/MisProyectosJava"><img alt="Java" src="https://img.shields.io/badge/-Mis Proyectos Java-brown?logo=Project&amp;style=for-the-badge"></a>
   <a href="https://github.com/Alexandru031/MisProyectosHTML_CSS"><img alt="HTMLyCSS" src="https://img.shields.io/badge/-Mis Proyectos HTML y CSS-cyan?logo=Project&amp;style=for-the-badge"></a>
   <a href="https://github.com/Alexandru031/MisProyectosJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/-Mis Proyectos JavaScript-gold?logo=Project&amp;style=for-the-badge"></a>
+  <a href="https://github.com/Alexandru031/JS-DAW-2023-practicas-Alexandru-Stanica"><img alt="2ºDAW" src="https://img.shields.io/badge/-Proyectos 2ºDAW-green?logo=Project&amp;style=for-the-badge"></a>
 </div>
 <br>
 
