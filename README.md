@@ -45,85 +45,55 @@ Según mis habilidades, soy una persona trabajador, responsable y también tengo
     <img alt="Nodejs" src="https://github.com/Alexandru031/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=5%>
     <img alt="NPM" src="https://github.com/Alexandru031/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=5%>
     <img alt="Mocha" src="https://github.com/Alexandru031/devicon/blob/master/icons/mocha/mocha-plain.svg" width=5%>
+    <img alt="Chai" src="https://www.svgrepo.com/show/353546/chai.svg" width=5%>
+  </p>
+  <h4 align="center">Editor de Codigos</h4>
+  <p align="center">
+    <img alt="Atom" src="https://github.com/Alexandru031/devicon/blob/master/icons/atom/atom-original.svg" width=5%>
+    <img alt="Visual_Studio" src="https://github.com/Alexandru031/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width=5%>
+    <img alt="VSCode" src="https://github.com/Alexandru031/devicon/blob/master/icons/vscode/vscode-original.svg" width=5%>
+    <img alt="NetBeans" src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo-607x700.png" width=4.5%>
   </p>
   <h4 align="center">Herramientas</h4>
   <p align="center">
     <img alt="Git" src="https://github.com/Alexandru031/devicon/blob/master/icons/git/git-original.svg" width=5%>
-    <img alt="GitHub" src="https://github.com/Alexandru031/devicon/blob/master/icons/github/github-original.svg" width=5%>
-    <img alt="Atom" src="https://github.com/Alexandru031/devicon/blob/master/icons/atom/atom-original.svg" width=5%>
-    <img alt="Visual_Studio" src="https://github.com/Alexandru031/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width=5%>
-    <img alt="VSCode" src="https://github.com/Alexandru031/devicon/blob/master/icons/vscode/vscode-original.svg" width=5%>
-    <img alt="Gimp" src="https://github.com/Alexandru031/devicon/blob/master/icons/gimp/gimp-original.svg" width=5%>
-    <img alt="Photoshop" src="https://github.com/Alexandru031/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width=5%>
+    <img alt="GitHub" src="https://www.svgrepo.com/show/475654/github-color.svg" width=5%>
     <img alt="Putty" src="https://github.com/Alexandru031/devicon/blob/master/icons/putty/putty-original.svg" width=5%>
     <img alt="Filezilla" src="https://github.com/Alexandru031/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width=5%>
     <img alt="Trello" src="https://github.com/Alexandru031/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width=5%>
+    <img alt="Docker" src="https://github.com/Alexandru031/devicon/blob/master/icons/docker/docker-original.svg" width=5%>
+    <img alt="Apache" src="https://www.svgrepo.com/show/373433/apache.svg" width=5%>
+    <img alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width=5%>
+  </p>
+  <h4 align="center">Edición de Fotos, Videos y Diseño</h4>
+  <p align="center">
+    <img alt="Gimp" src="https://github.com/Alexandru031/devicon/blob/master/icons/gimp/gimp-original.svg" width=5%>
+    <img alt="Photoshop" src="https://github.com/Alexandru031/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width=5%>
     <img alt="Canva" src="https://github.com/Alexandru031/devicon/blob/master/icons/canva/canva-original.svg" width=5%>
     <img alt="Figma" src="https://github.com/Alexandru031/devicon/blob/master/icons/figma/figma-original.svg" width=5%>
-    <img alt="Docker" src="https://github.com/Alexandru031/devicon/blob/master/icons/docker/docker-original.svg" width=5%>
-    <img alt="Apache" src="https://github.com/Alexandru031/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width=5%>
+    <img alt="Capcut" src="https://freelogopng.com/images/all_img/1664284918capcut-icon-png.png" width=5%>
   </p>
   <h4 align="center">Sistemas Operativos</h4>
   <p align="center">
+    <img alt="Windows" src="https://github.com/espressif/arduino-esp32/blob/8d1a84557c99135742374a77df1e6b4b2f6d0e6d/docs/source/_static/logo_windows.png" width=5%>
     <img alt="Debian" src="https://github.com/Alexandru031/devicon/blob/master/icons/debian/debian-original.svg" width=5%>
     <img alt="Linux" src="https://github.com/Alexandru031/devicon/blob/master/icons/linux/linux-original.svg" width=5%>
     <img alt="Ubuntu" src="https://github.com/Alexandru031/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width=5%>
   </p>
   <h4 align="center">Navegadores</h4>
   <p align="center">
-    <img alt="Google" src="https://github.com/Alexandru031/devicon/blob/master/icons/google/google-original.svg" width=5%>
-  <img alt="Firefox" src="https://github.com/Alexandru031/devicon/blob/master/icons/firefox/firefox-original.svg" width=5%>
+    <img alt="Google" src="https://www.svgrepo.com/show/475656/google-color.svg" width=5%>
+    <img alt="Firefox" src="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/70.4.0/firefox/firefox.png" width=5%>
+    <img alt="Firefox_Night" src="https://th.bing.com/th/id/R.07ce226dab474d5d8b72d341c51c3a2f?rik=gj%2byW1JIIPgoIQ&pid=ImgRaw&r=0" width=5%>
+    <img alt="Edge" src="https://i.pinimg.com/originals/d5/e4/b2/d5e4b203dd4bce1f7dbe661502e4c93d.png" width=5%>
+  </p>
+  <h4 align="center">Cloud</h4>
+  <p align="center">
+    <img alt="Google_Drive" src="https://www.svgrepo.com/show/475644/drive-color.svg" width=5%>
+    <img alt="Terabox" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuRuBqyPceqMGJnQWAXyF_oluBbjudFOIQJBqM5HBbji815dIvWS4eII1FLxnxi0VbA_iC6JjiIuHjPmSWJr9FIMoohMjk22Yz-mMv25kGsEGrF22xirGYDWVMsKL1vcHsQ_nuH_0FOtcqkq8CUalY7UQXyrpEdC2s8zyxI6XLSMVN6gZgNOEumDdqNg/s500/Terabox_logo-removebg-preview.png" width=5%>
+    <img alt="OneDrive" src="https://www.svgrepo.com/show/452065/ms-onedrive.svg" width=5%>
   </p>
 <p> 
-- 💻 &nbsp;
-  <img alt="Java" src="https://img.shields.io/badge/-Java-black?logo=Java&amp;style=for-the-badge">
-  <img alt="C#" src="https://img.shields.io/badge/-Csharp-black?logo=csharp&amp;style=for-the-badge">
-</p>
-<p>
-  - 🌐 &nbsp;
-   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?logo=html5&amp;style=for-the-badge">
-   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?logo=css3&amp;style=for-the-badge">
-   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&amp;style=for-the-badge">
-   <img alt="Boostrap" src="https://img.shields.io/badge/-Boostrap-black?logo=bootstrap&amp;style=for-the-badge">
-   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-black?logo=markdown&amp;style=for-the-badge">
-   <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?logo=php&amp;style=for-the-badge">
-   <img alt="Laravel" src="https://img.shields.io/badge/-Sass-black?logo=sass&amp;style=for-the-badge">
-</p>
-<p>
-  - 🛢 &nbsp;
-   <img alt="OracleSQL" src="https://img.shields.io/badge/-OracleSQL-black?logo=oracle&amp;style=for-the-badge">
-   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?logo=mysql&amp;style=for-the-badge">
-</p>
-<p>
-  - ⚙️ &nbsp;
-   <img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git&amp;style=for-the-badge">
-   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=github&amp;style=for-the-badge">
-   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-black?logo=stackoverflow&amp;style=for-the-badge">
-</p>
-<p>
-  - 🔧 &nbsp;
-   <img alt="VScode" src="https://img.shields.io/badge/-VScode-black?logo=visualstudiocode&amp;style=for-the-badge">
-   <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-black?logo=visualstudio&amp;style=for-the-badge">
-   <img alt="Atom" src="https://img.shields.io/badge/-Atom-black?logo=atom&amp;style=for-the-badge">
-   <img alt="NetBeans" src="https://img.shields.io/badge/-NetBeans-black?logo=apachenetbeanside&amp;style=for-the-badge">
-   <img alt="NetBeans" src="https://img.shields.io/badge/-Postman-black?logo=postman&amp;style=for-the-badge">
-</p>
-<p>
-  - 🖥 &nbsp;
-   <img alt="PhotoShop" src="https://img.shields.io/badge/-Photoshop-black?logo=adobephotoshop&amp;style=for-the-badge">
-   <img alt="CapCut" src="https://img.shields.io/badge/-Capcut-black?logo=capcut&amp;style=for-the-badge">
-   <img alt="GIMP" src="https://img.shields.io/badge/-GIMP-black?logo=gimp&amp;style=for-the-badge">
-   <img alt="Canva" src="https://img.shields.io/badge/-Canva-black?logo=canva&amp;style=for-the-badge">
-   <img alt="Microsoft Office" src="https://img.shields.io/badge/-Microsoft Office-black?logo=microsoftoffice&amp;style=for-the-badge">
-   <img alt="Windows" src="https://img.shields.io/badge/-Windows-black?logo=windows&amp;style=for-the-badge">
-   <img alt="Debian" src="https://img.shields.io/badge/-Debian-black?logo=debian&amp;style=for-the-badge">
-</p>
-<p>
-  - ☁️ &nbsp;
-   <img alt="Google Drive" src="https://img.shields.io/badge/-Google Drive-black?logo=googledrive&amp;style=for-the-badge">
-   <img alt="TeraBox" src="https://img.shields.io/badge/-TeraBox-black?logo=terabox&amp;style=for-the-badge">
-</p>
-
 Fuera del ambito de programación y usos de software, también tengo otras habilidades:
 
 - Montaje y mantenimiento de los equipos informaticos
@@ -164,8 +134,9 @@ Actualmente estoy estudiando, por la tanto no tengo experiencia laboral. Pero hi
 Sígueme en mis redes sociales!!! Si quieres contactarme algo importante, te recomiendo que escribas en mi Gmail.
 
 <div align=center>
-   <a href="https://twitter.com/elestanusky"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&amp;style=for-the-badge">
-   <a href="mailto:alexandrustanica33@gmail.com" subject="alexandrustanica33@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-alexandrustanica33@gmail.com-white?logo=gmail&amp;style=for-the-badge">
+     <a href="https://www.linkedin.com/in/alexandru-stanica-5087b3264/"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&amp;style=for-the-badge">
+     <a href="https://twitter.com/elestanusky"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&amp;style=for-the-badge">
+     <a href="mailto:alexandrustanica33@gmail.com" subject="alexandrustanica33@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-alexandrustanica33@gmail.com-white?logo=gmail&amp;style=for-the-badge">
 </div>
 <br>
       
