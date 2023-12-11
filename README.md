@@ -1,4 +1,4 @@
-![head.png](https://cdn.pixabay.com/photo/2016/05/22/19/07/background-1409025_960_720.png)
+![head.png](https://github.com/Alexandru031/Alexandru031/blob/main/icons/Alexandru.gif)
 # Bienvenido 👋
 
 <!--
@@ -112,6 +112,7 @@ Mis proyectos personales consisten en crear y diseñar diferentes paginas web po
   <a href="https://github.com/Alexandru031/MisProyectosHTML_CSS"><img alt="HTMLyCSS" src="https://img.shields.io/badge/-Mis Proyectos HTML y CSS-cyan?logo=Project&amp;style=for-the-badge"></a>
   <a href="https://github.com/Alexandru031/MisProyectosJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/-Mis Proyectos JavaScript-gold?logo=Project&amp;style=for-the-badge"></a>
   <a href="https://github.com/Alexandru031/JS-DAW-2023-practicas-Alexandru-Stanica"><img alt="2ºDAW" src="https://img.shields.io/badge/-Proyectos 2ºDAW-green?logo=Project&amp;style=for-the-badge"></a>
+  <a href="https://github.com/Alexandru031/API_REST_Login"><img alt="API_RESt_Login" src="https://img.shields.io/badge/-API REST Login-cyan?logo=Project&amp;style=for-the-badge"></a>
 </div>
 <br>
 
