@@ -1,4 +1,4 @@
-![head.png](https://github.com/Alexandru031/Alexandru031/blob/main/icons/Alexandru.gif)
+![head.png](https://github.com/Alexandru031/Alexandru031/blob/main/icons/Alexandru%20(3).gif)
 # Bienvenido 👋
 
 <!--
