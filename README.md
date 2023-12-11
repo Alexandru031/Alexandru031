@@ -25,42 +25,55 @@ En los siguientes pasos les mostraré toda la información que les interesa sobr
 
 Según mis habilidades, soy una persona trabajador, responsable y también tengo facilidad en aprender cosas. Aprendí diferentes lenguajes de programación, lenguajes de marcado y usé diferentes programas de software:
 
-<p align="center" >
-  <img alt="HTML5" src="https://github.com/Alexandru031/devicon/blob/master/icons/html5/html5-original.svg" width=10%>
-  <img alt="CSS3" src="https://github.com/Alexandru031/devicon/blob/master/icons/css3/css3-original.svg" width=10%>
-  <img alt="javaScript" src="https://github.com/Alexandru031/devicon/blob/master/icons/javascript/javascript-original.svg" width=10%>
-  <img alt="Boostrap" src="https://github.com/Alexandru031/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=10%>
-  <img alt="Sass" src="https://github.com/Alexandru031/devicon/blob/master/icons/sass/sass-original.svg" width=10%>
-  <img alt="Markdown" src="https://github.com/Alexandru031/devicon/blob/master/icons/markdown/markdown-original.svg" width=10%>
-  <img alt="PHP" src="https://github.com/Alexandru031/devicon/blob/master/icons/php/php-original.svg" width=10%>
-  <img alt="Oracle" src="https://github.com/Alexandru031/devicon/blob/master/icons/oracle/oracle-original.svg" width=10%>
-  <img alt="Git" src="https://github.com/Alexandru031/devicon/blob/master/icons/git/git-original.svg" width=10%>
-  <img alt="GitHub" src="https://github.com/Alexandru031/devicon/blob/master/icons/github/github-original.svg" width=10%>
-  <img alt="Java" src="https://github.com/Alexandru031/devicon/blob/master/icons/java/java-original.svg" width=10%>
-  <img alt="Csharp" src="https://github.com/Alexandru031/devicon/blob/master/icons/csharp/csharp-original.svg" width=10%>
-  <img alt="MySQL" src="https://github.com/Alexandru031/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=10%>
-  <img alt="Apache" src="https://github.com/Alexandru031/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width=10%>
-  <img alt="Debian" src="https://github.com/Alexandru031/devicon/blob/master/icons/debian/debian-original.svg" width=10%>
-  <img alt="Nodejs" src="https://github.com/Alexandru031/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=10%>
-  <img alt="NPM" src="https://github.com/Alexandru031/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=10%>
-  <img alt="Trello" src="https://github.com/Alexandru031/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width=10%>
-  <img alt="Visual_Studio" src="https://github.com/Alexandru031/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width=10%>
-  <img alt="VSCode" src="https://github.com/Alexandru031/devicon/blob/master/icons/vscode/vscode-original.svg" width=10%>
-  <img alt="Ubuntu" src="https://github.com/Alexandru031/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width=10%>
-  <img alt="Mocha" src="https://github.com/Alexandru031/devicon/blob/master/icons/mocha/mocha-plain.svg" width=10%>
-  <img alt="Google" src="https://github.com/Alexandru031/devicon/blob/master/icons/google/google-original.svg" width=10%>
-  <img alt="Atom" src="https://github.com/Alexandru031/devicon/blob/master/icons/atom/atom-original.svg" width=10%>
-  <img alt="Bash" src="https://github.com/Alexandru031/devicon/blob/master/icons/bash/bash-original.svg" width=10%>
-  <img alt="Canva" src="https://github.com/Alexandru031/devicon/blob/master/icons/canva/canva-original.svg" width=10%>
-  <img alt="Docker" src="https://github.com/Alexandru031/devicon/blob/master/icons/docker/docker-original.svg" width=10%>
-  <img alt="Figma" src="https://github.com/Alexandru031/devicon/blob/master/icons/figma/figma-original.svg" width=10%>
-  <img alt="Filezilla" src="https://github.com/Alexandru031/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width=10%>
-  <img alt="Firefox" src="https://github.com/Alexandru031/devicon/blob/master/icons/firefox/firefox-original.svg" width=10%>
-  <img alt="Gimp" src="https://github.com/Alexandru031/devicon/blob/master/icons/gimp/gimp-original.svg" width=10%>
-  <img alt="Linux" src="https://github.com/Alexandru031/devicon/blob/master/icons/linux/linux-original.svg" width=10%>
-  <img alt="Photoshop" src="https://github.com/Alexandru031/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width=10%>
-  <img alt="Putty" src="https://github.com/Alexandru031/devicon/blob/master/icons/putty/putty-original.svg" width=10%>
-</p>
+<p align="center">
+  <h4 align="center">Front End</h4>
+  <p align="center">
+      <img alt="HTML5" src="https://github.com/Alexandru031/devicon/blob/master/icons/html5/html5-original.svg" width=5%>
+      <img alt="CSS3" src="https://github.com/Alexandru031/devicon/blob/master/icons/css3/css3-original.svg" width=5%>
+      <img alt="Markdown" src="https://github.com/Alexandru031/devicon/blob/master/icons/markdown/markdown-original.svg" width=5%>
+      <img alt="javaScript" src="https://github.com/Alexandru031/devicon/blob/master/icons/javascript/javascript-original.svg" width=5%>
+      <img alt="Boostrap" src="https://github.com/Alexandru031/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=5%>
+      <img alt="Sass" src="https://github.com/Alexandru031/devicon/blob/master/icons/sass/sass-original.svg" width=5%>
+  </p>
+  <h4 align="center">Back End</h4>
+  <p align="center">
+    <img alt="PHP" src="https://github.com/Alexandru031/devicon/blob/master/icons/php/php-original.svg" width=5%>
+    <img alt="Java" src="https://github.com/Alexandru031/devicon/blob/master/icons/java/java-original.svg" width=5%>
+    <img alt="Csharp" src="https://github.com/Alexandru031/devicon/blob/master/icons/csharp/csharp-original.svg" width=5%>
+    <img alt="MySQL" src="https://github.com/Alexandru031/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=5%>
+    <img alt="Oracle" src="https://github.com/Alexandru031/devicon/blob/master/icons/oracle/oracle-original.svg" width=5%>
+    <img alt="Nodejs" src="https://github.com/Alexandru031/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=5%>
+    <img alt="NPM" src="https://github.com/Alexandru031/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=5%>
+    <img alt="Mocha" src="https://github.com/Alexandru031/devicon/blob/master/icons/mocha/mocha-plain.svg" width=5%>
+  </p>
+  <h4 align="center">Herramientas</h4>
+  <p align="center">
+    <img alt="Git" src="https://github.com/Alexandru031/devicon/blob/master/icons/git/git-original.svg" width=5%>
+    <img alt="GitHub" src="https://github.com/Alexandru031/devicon/blob/master/icons/github/github-original.svg" width=5%>
+    <img alt="Atom" src="https://github.com/Alexandru031/devicon/blob/master/icons/atom/atom-original.svg" width=5%>
+    <img alt="Visual_Studio" src="https://github.com/Alexandru031/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width=5%>
+    <img alt="VSCode" src="https://github.com/Alexandru031/devicon/blob/master/icons/vscode/vscode-original.svg" width=5%>
+    <img alt="Gimp" src="https://github.com/Alexandru031/devicon/blob/master/icons/gimp/gimp-original.svg" width=5%>
+    <img alt="Photoshop" src="https://github.com/Alexandru031/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width=5%>
+    <img alt="Putty" src="https://github.com/Alexandru031/devicon/blob/master/icons/putty/putty-original.svg" width=5%>
+    <img alt="Filezilla" src="https://github.com/Alexandru031/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width=5%>
+    <img alt="Trello" src="https://github.com/Alexandru031/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width=5%>
+    <img alt="Canva" src="https://github.com/Alexandru031/devicon/blob/master/icons/canva/canva-original.svg" width=5%>
+    <img alt="Figma" src="https://github.com/Alexandru031/devicon/blob/master/icons/figma/figma-original.svg" width=5%>
+    <img alt="Docker" src="https://github.com/Alexandru031/devicon/blob/master/icons/docker/docker-original.svg" width=5%>
+    <img alt="Apache" src="https://github.com/Alexandru031/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width=5%>
+  </p>
+  <h4 align="center">Sistemas Operativos</h4>
+  <p align="center">
+    <img alt="Debian" src="https://github.com/Alexandru031/devicon/blob/master/icons/debian/debian-original.svg" width=5%>
+    <img alt="Linux" src="https://github.com/Alexandru031/devicon/blob/master/icons/linux/linux-original.svg" width=5%>
+    <img alt="Ubuntu" src="https://github.com/Alexandru031/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width=5%>
+  </p>
+  <h4 align="center">Navegadores</h4>
+  <p align="center">
+    <img alt="Google" src="https://github.com/Alexandru031/devicon/blob/master/icons/google/google-original.svg" width=5%>
+  <img alt="Firefox" src="https://github.com/Alexandru031/devicon/blob/master/icons/firefox/firefox-original.svg" width=5%>
+  </p>
 <p> 
 - 💻 &nbsp;
   <img alt="Java" src="https://img.shields.io/badge/-Java-black?logo=Java&amp;style=for-the-badge">
