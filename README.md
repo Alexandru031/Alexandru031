@@ -28,68 +28,17 @@ En los siguientes pasos les mostraré toda la información que les interesa sobr
   <p align="center">
       <img alt="HTML5" src="https://github.com/Alexandru031/devicon/blob/master/icons/html5/html5-original.svg" width=5%>
       <img alt="CSS3" src="https://github.com/Alexandru031/devicon/blob/master/icons/css3/css3-original.svg" width=5%>
-      <img alt="Markdown" src="https://github.com/Alexandru031/devicon/blob/master/icons/markdown/markdown-original.svg" width=5%>
       <img alt="javaScript" src="https://github.com/Alexandru031/devicon/blob/master/icons/javascript/javascript-original.svg" width=5%>
-      <img alt="Boostrap" src="https://github.com/Alexandru031/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=5%>
-      <img alt="Sass" src="https://github.com/Alexandru031/devicon/blob/master/icons/sass/sass-original.svg" width=5%>
-  </p><br>
+      <img alt="Typescript" src="https://github.com/Alexandru031/devicon/blob/master/icons/typescript/typescript-plain.svg" width=5%>
+      <img alt="TailwindCSS" src="https://github.com/Alexandru031/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width=5%>
+  </p>
   <h4 align="center">Back End</h4>
   <p align="center">
     <img alt="PHP" src="https://github.com/Alexandru031/devicon/blob/master/icons/php/php-original.svg" width=5%>
     <img alt="Java" src="https://github.com/Alexandru031/devicon/blob/master/icons/java/java-original.svg" width=5%>
     <img alt="Csharp" src="https://github.com/Alexandru031/devicon/blob/master/icons/csharp/csharp-original.svg" width=5%>
     <img alt="MySQL" src="https://github.com/Alexandru031/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width=5%>
-    <img alt="Oracle" src="https://github.com/Alexandru031/devicon/blob/master/icons/oracle/oracle-original.svg" width=5%>
     <img alt="Nodejs" src="https://github.com/Alexandru031/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=5%>
-    <img alt="NPM" src="https://github.com/Alexandru031/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width=5%>
-    <img alt="Mocha" src="https://github.com/Alexandru031/devicon/blob/master/icons/mocha/mocha-plain.svg" width=5%>
-    <img alt="Chai" src="https://www.svgrepo.com/show/353546/chai.svg" width=5%>
-  </p><br>
-  <h4 align="center">Editor de Codigos</h4>
-  <p align="center">
-    <img alt="Atom" src="https://github.com/Alexandru031/devicon/blob/master/icons/atom/atom-original.svg" width=5%>
-    <img alt="Visual_Studio" src="https://github.com/Alexandru031/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width=5%>
-    <img alt="VSCode" src="https://github.com/Alexandru031/devicon/blob/master/icons/vscode/vscode-original.svg" width=5%>
-    <img alt="NetBeans" src="https://logos-download.com/wp-content/uploads/2020/07/NetBeans_Logo-607x700.png" width=4.5%>
-  </p><br>
-  <h4 align="center">Herramientas</h4>
-  <p align="center">
-    <img alt="Git" src="https://github.com/Alexandru031/devicon/blob/master/icons/git/git-original.svg" width=5%>
-    <img alt="GitHub" src="https://www.svgrepo.com/show/475654/github-color.svg" width=5%>
-    <img alt="Putty" src="https://github.com/Alexandru031/devicon/blob/master/icons/putty/putty-original.svg" width=5%>
-    <img alt="Filezilla" src="https://github.com/Alexandru031/devicon/blob/master/icons/filezilla/filezilla-plain.svg" width=5%>
-    <img alt="Trello" src="https://github.com/Alexandru031/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width=5%>
-    <img alt="Docker" src="https://github.com/Alexandru031/devicon/blob/master/icons/docker/docker-original.svg" width=5%>
-    <img alt="Apache" src="https://www.svgrepo.com/show/373433/apache.svg" width=5%>
-    <img alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width=5%>
-  </p><br>
-  <h4 align="center">Edición de Fotos, Videos y Diseño</h4>
-  <p align="center">
-    <img alt="Gimp" src="https://github.com/Alexandru031/devicon/blob/master/icons/gimp/gimp-original.svg" width=5%>
-    <img alt="Photoshop" src="https://github.com/Alexandru031/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width=5%>
-    <img alt="Canva" src="https://github.com/Alexandru031/devicon/blob/master/icons/canva/canva-original.svg" width=5%>
-    <img alt="Figma" src="https://github.com/Alexandru031/devicon/blob/master/icons/figma/figma-original.svg" width=5%>
-    <img alt="Capcut" src="https://freelogopng.com/images/all_img/1664284918capcut-icon-png.png" width=5%>
-  </p><br>
-  <h4 align="center">Sistemas Operativos</h4>
-  <p align="center">
-    <img alt="Windows" src="https://github.com/espressif/arduino-esp32/blob/8d1a84557c99135742374a77df1e6b4b2f6d0e6d/docs/source/_static/logo_windows.png" width=5%>
-    <img alt="Debian" src="https://github.com/Alexandru031/devicon/blob/master/icons/debian/debian-original.svg" width=5%>
-    <img alt="Linux" src="https://github.com/Alexandru031/devicon/blob/master/icons/linux/linux-original.svg" width=5%>
-    <img alt="Ubuntu" src="https://github.com/Alexandru031/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width=5%>
-  </p><br>
-  <h4 align="center">Navegadores</h4>
-  <p align="center">
-    <img alt="Google" src="https://www.svgrepo.com/show/475656/google-color.svg" width=5%>
-    <img alt="Firefox" src="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/70.4.0/firefox/firefox.png" width=5%>
-    <img alt="Firefox_Night" src="https://th.bing.com/th/id/R.07ce226dab474d5d8b72d341c51c3a2f?rik=gj%2byW1JIIPgoIQ&pid=ImgRaw&r=0" width=5%>
-    <img alt="Edge" src="https://i.pinimg.com/originals/d5/e4/b2/d5e4b203dd4bce1f7dbe661502e4c93d.png" width=5%>
-  </p><br>
-  <h4 align="center">Cloud</h4>
-  <p align="center">
-    <img alt="Google_Drive" src="https://www.svgrepo.com/show/475644/drive-color.svg" width=5%>
-    <img alt="Terabox" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuRuBqyPceqMGJnQWAXyF_oluBbjudFOIQJBqM5HBbji815dIvWS4eII1FLxnxi0VbA_iC6JjiIuHjPmSWJr9FIMoohMjk22Yz-mMv25kGsEGrF22xirGYDWVMsKL1vcHsQ_nuH_0FOtcqkq8CUalY7UQXyrpEdC2s8zyxI6XLSMVN6gZgNOEumDdqNg/s500/Terabox_logo-removebg-preview.png" width=5%>
-    <img alt="OneDrive" src="https://www.svgrepo.com/show/452065/ms-onedrive.svg" width=5%>
   </p><br>
   
 Fuera del ambito de programación y usos de software, también tengo otras habilidades:
@@ -125,7 +74,7 @@ Actualmente estoy estudiando, por la tanto no tengo experiencia laboral. Pero hi
 
 - Tecnico de Sistemas Microinformáticos y Redes de Grado Medio en CIPFP de Cheste [Septiembre 2019 - Junio 2021]
 
-- Tecnico de Desarrollo de Aplicaciones Web de Grado Superior en CIPFP de Cheste [Septiembre 2021 - Actualidad]
+- Tecnico de Desarrollo de Aplicaciones Web de Grado Superior en CIPFP de Cheste [Septiembre 2021 - Junio 2024]
 <br><br>
 
 ### 5. Datos de Contacto :telephone_receiver:
