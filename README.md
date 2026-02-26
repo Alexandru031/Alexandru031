@@ -1,5 +1,5 @@
-![head.png](https://github.com/Alexandru031/Alexandru031/blob/main/icons/Alexandru%20(3).gif)
-# Bienvenido 👋
+<!-- ![head.png](https://github.com/Alexandru031/Alexandru031/blob/main/icons/Alexandru%20(3).gif) -->
+# Saludos 👋
 
 <!--
 **Alexandru031/Alexandru031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150">
+<!-- <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150"> -->
 
 Bienvenido a mi perfil de GitHub, me llamo Alex 😊 y muchas gracias por visitar mi perfil. Espero que les interese 😄. 
 En los siguientes pasos les mostraré toda la información que les interesa sobre mí: mis experiencias, mis estudios, mis hobbies, etc. Vamos a comenzar con las siguientes:
